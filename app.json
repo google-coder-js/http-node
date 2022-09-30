@@ -1,0 +1,10 @@
+{
+    "name": "node-http",
+    "description": "node https server",
+    "repository": "https://github.com/google-coder-js/http-node",
+    "keywords": [
+        "https",
+        "es6",
+        "javascript"
+    ]
+}
